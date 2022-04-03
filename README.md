@@ -4,6 +4,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="60" height="60" />
   <img src="https://i.ibb.co/SNYZBxV/pngaaa-com-4112291.png" alt="sol" width="60" height="60" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="sol" width="60" height="60"/>
+      
 </p>
