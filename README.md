@@ -9,7 +9,7 @@
 </p>
 
 Hey you!
-I am a [42](https://42.fr) student, passionate about new technologies and more particularly about tools related to decentralized finance.
+I am a [42](https://42.fr) student, passionate about new technologies and more particularly about everything related to decentralized finance and privacy.
 
 Here you will find every projects I did during my studies, including my personal projects:
 
