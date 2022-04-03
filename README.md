@@ -11,7 +11,13 @@
 Hey you!
 I am a [42](https://42.fr) student, passionate about new technologies and more particularly about everything related to decentralized finance and privacy.
 
-Here you will find every projects I did during my studies, including my personal projects:
+Here you will find every projects I did during my studies, including my personal projects, sorted from recent to oldest:
 
-- [Quote on blockchain](https://github.com/matopop/wave-website) (ReactJS, Solidity)
-- [TicTacToe](https://github.com/matopop/tictactoe) (ReactJS)
+- Personal Projects:
+  - [Quote on blockchain](https://github.com/matopop/wave-website) (ReactJS, Solidity)
+  - [TicTacToe](https://github.com/matopop/tictactoe) (ReactJS)
+
+- Studies:
+
+
+
