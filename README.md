@@ -17,7 +17,20 @@ Here you will find every projects I did during my studies, including my personal
   - [Quote on blockchain](https://github.com/matopop/wave-website) (ReactJS, Solidity)
   - [TicTacToe](https://github.com/matopop/tictactoe) (ReactJS)
 
-- Studies:
+- Studies
+  - Dockers, scripts
+    - Inception - A wordpress website created with Dockers (mariadb, nginx wordpress)
+  - C++
+    - ft_irc - IRC server 
+  - C & Bash
+    - Cub3D - 3D Game
+    - Philosophers
+    - Solong - 2D Game
+    - Minitalk
+    - Push swap - Sort algorithm
+    - Get_next_line
+    - Printf
+    - Libft
 
 
 
