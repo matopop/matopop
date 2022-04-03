@@ -7,3 +7,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="sol" width="60" height="60"/>
       
 </p>
+
+Hey you!
+I am a [42](https://42.fr) student, passionate about new technologies and more particularly about tools related to decentralized finance.
+
+Here you will find every projects I did during my studies, including my personal projects:
+
+- [Quote on blockchain](https://github.com/matopop/wave-website) (ReactJS, Solidity)
+- [TicTacToe](https://github.com/matopop/tictactoe) (ReactJS)
