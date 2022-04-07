@@ -16,6 +16,7 @@ Here you will find every projects I did during my studies, including my personal
 - Personal Projects:
   - [Quote on blockchain](https://github.com/matopop/wave-website) (ReactJS, Solidity)
   - [TicTacToe](https://github.com/matopop/tictactoe) (ReactJS)
+  - [Random Quote Generator](https://github.com/matopop/random_quote_generator) (ReactJS)
 
 - Studies
   - Dockers, scripts
