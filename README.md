@@ -14,9 +14,10 @@ I am a [42](https://42.fr) student, passionate about new technologies and more p
 Here you will find every projects I did during my studies, including my personal projects, sorted from recent to oldest:
 
 - Personal Projects:
+  - [Random Quote Generator](https://github.com/matopop/random_quote_generator) (ReactJS)
   - [Quote on blockchain](https://github.com/matopop/wave-website) (ReactJS, Solidity)
   - [TicTacToe](https://github.com/matopop/tictactoe) (ReactJS)
-  - [Random Quote Generator](https://github.com/matopop/random_quote_generator) (ReactJS)
+  
 
 - Studies
   - Dockers, scripts
